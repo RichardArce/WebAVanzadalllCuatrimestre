@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path="instruccions.md" />
+  </Folder>
+  <Project Path="../WebAvanzadalllCuatrimestre.Aplication/WebAvanzadalllCuatrimestre.Aplication.csproj" Id="f3e1e72a-bbfa-43df-baa4-90ac29a3864a" />
+  <Project Path="../WebAvanzadalllCuatrimestre.Domain/WebAvanzadalllCuatrimestre.Domain.csproj" Id="78c03a03-a621-4ff2-a928-0a79889d0a3b" />
+  <Project Path="../WebAvanzadalllCuatrimestre.Infrastructure/WebAvanzadalllCuatrimestre.Infrastructure.csproj" Id="aca6c329-d095-4ae1-8ae9-db1d0492e65a" />
+  <Project Path="WebAVanzadalllCuatrimestre.csproj" />
+</Solution>
